@@ -1,1 +1,2 @@
-{{echo "okta"}}
+{{echo "okta"}};
+{{echo "tepa"}};
